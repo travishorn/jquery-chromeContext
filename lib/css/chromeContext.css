@@ -1,0 +1,29 @@
+.cctx {
+  display: none;
+  position: absolute;
+  
+  min-width: 300px;
+  
+  background-color: #FFF;
+  color: #000;
+  border: solid 1px #BABABA;
+  box-shadow: 2px 2px 4px #ABABAB;
+  
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+.cctx-item {
+  cursor: default;
+  padding: 7px 25px;
+}
+
+.cctx-item:hover {
+  background-color: #EFEFEF;
+}
+
+.cctx-separator {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  border-bottom: solid 1px #E9E9E9;
+}

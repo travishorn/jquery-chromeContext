@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  padding: 5px 10px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #FFF;
+  text-shadow: 1px 1px 2px #555;
+}
+
+#one { background-color: #FF8080; }
+#two { background-color: #84FF84; }
