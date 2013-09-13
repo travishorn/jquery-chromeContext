@@ -5,7 +5,7 @@
 Create Chrome-styled context menus (right-click menus) for any element.
 
 ## Example usage
-    $('#one').chromeContext({
+    $('#trigger').chromeContext({
       items: [
         {
           title: 'Hello',
@@ -20,4 +20,4 @@ Create Chrome-styled context menus (right-click menus) for any element.
     });
 
 ## Demo
-See the **demo** directory in the repository or see the [online demo](http://jsfiddle.net/bupfy/).
+See the **demo** directory in the repository or see the [online demo](http://jsfiddle.net/bupfy/1/).
