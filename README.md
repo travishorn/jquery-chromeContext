@@ -19,5 +19,9 @@ Create Chrome-styled context menus (right-click menus) for any element.
       ]
     });
 
+## Screenshot
+
+![chromeContext screenshot](http://i.imgur.com/Truea63.png)
+
 ## Demo
 See the **demo** directory in the repository or see the [online demo](http://jsfiddle.net/bupfy/1/).
