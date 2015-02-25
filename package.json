@@ -11,6 +11,8 @@
     "url": "https://github.com/travishorn/jquery-chromeContext.git"
   },
   "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
     "event",
     "menu",
     "ui"
