@@ -1,7 +1,7 @@
 {
-  "name": "jquery-chromeContext",
+  "name": "chromecontext",
   "version": "0.0.3",
-  "description": "Create Chrome-styled context menus (right-click menus) for any element.",
+  "description": "jQuery plugin to create Chrome-styled context menus (right-click menus) for any element.",
   "main": "lib/js/jquery.chromeContext.js",
   "scripts": {
     "test": "grunt test"
